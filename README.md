@@ -84,8 +84,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![github](https://github.com/Sulthan06042007/simplewebserver/assets/144980103/00997553-2ea0-4537-b24d-694f536afd68)
-![github](https://github.com/Sulthan06042007/simplewebserver/assets/144980103/3aecd5ef-1f52-425e-bf85-048df2415cde)
+![312766967-8a20bfda-cc81-4b7a-872a-604395bf7428](https://github.com/Sulthan06042007/simplewebserver/assets/144980103/ceaf044c-e08a-4a5d-836d-9bea26528d8a)
+![312767097-dedd898c-e20f-4684-bab2-3bf9046ad37d](https://github.com/Sulthan06042007/simplewebserver/assets/144980103/b9106875-de21-48c0-bbec-47a0b071e6ea)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
