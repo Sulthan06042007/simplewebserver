@@ -1,4 +1,4 @@
-# EX01 Developing a Simple Webserver
+# EX01 Developing a Simple Webserver# EX01 Developing a Simple Webserver
 ## Date: 14.02.2024
 
 ## AIM:
@@ -21,7 +21,6 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
-
 ```
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = 
@@ -84,9 +83,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![312766967-8a20bfda-cc81-4b7a-872a-604395bf7428](https://github.com/Sulthan06042007/simplewebserver/assets/144980103/ceaf044c-e08a-4a5d-836d-9bea26528d8a)
-![312767097-dedd898c-e20f-4684-bab2-3bf9046ad37d](https://github.com/Sulthan06042007/simplewebserver/assets/144980103/b9106875-de21-48c0-bbec-47a0b071e6ea)
-
+![Screenshot  2024-05-10 at 13 40 38_ebc127fa](https://github.com/Sulthan06042007/simplewebserver/assets/144980103/3b8fc81e-638d-4a45-a8d1-48a714f384db)
+![Screenshot 2024-05-10 at 13 40 38_dd5409f1](https://github.com/Sulthan06042007/simplewebserver/assets/144980103/5472c66d-4f7e-46c3-add8-a3b4fb955e5b)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
